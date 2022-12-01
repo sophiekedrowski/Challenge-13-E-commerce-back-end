@@ -25,7 +25,7 @@ router.get('/:id', async (req, res) => {
       include: Product
     });
     if (!categoryData) {
-      res.status(404).json({ message: 'Couldnt locate category' });
+      res.status(404).json({ message:'Couldnt locate category'});
       return;
     }
     res.status(200).json(categoryData);
