@@ -20,6 +20,9 @@
 
   ## Description 
  Creating an E-commerce back end using ORM. The student was given started code and from there they created mysql models and api routes in order to test data in insomnia 
+ 
+ [Video of how to start this application in the command line](https://youtu.be/JtbTgS8wc4Y)
+ 
  The following links have videos of how each category route is run in insomnia
 
 [Products](https://youtu.be/z5WVMyDcTxQ)
